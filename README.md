@@ -7,3 +7,4 @@ Systems Engineer and Full-Stack Developer from Colombia.
 ---
 # Github Stats:
 <img src="https://ghstats.dev/api/card?username=schruedz&border_radius=5.5" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/sparkline?username=schruedz&days=30&width=320&height=80" alt="Contribution Sparkline" />
