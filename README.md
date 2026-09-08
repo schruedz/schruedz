@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems Engineer and Full-Stack Developer from Colombia. On the frontend, I work with React, modern JavaScript, HTML5, and CSS3; on the backend, I build services and APIs using Django, Laravel, and PHP connected to relational databases, along with browser extensions.
+Systems Engineer and Full-Stack Developer from Colombia. 
 
 
 # 💻 Tech Stack:
